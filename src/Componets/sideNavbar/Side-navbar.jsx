@@ -10,7 +10,7 @@ const Sidebar=(props)=>{
                   console.log(props)
                 return(
     <>
-     <div className="px-10 py-5 w-64 h-full bg-slate-600">
+     <div className=" py-5 w-64 h-full bg-slate-600">
         <div>
             <a href="https://iotcom.io/" target="_blank">
             <img src="https://monitoring.iotcom.io/Frame 66.png">
